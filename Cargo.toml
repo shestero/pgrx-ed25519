@@ -17,8 +17,6 @@ pgrx_test = []
 [dependencies]
 pgrx = "0.11.4"
 ed25519-dalek = { version = "2.1.1", features = ["rand_core"] }
-# rand_core = "=0.6.4"
-# getrandom = "0.2.14"
 rand = "0.8"
 
 [dev-dependencies]
