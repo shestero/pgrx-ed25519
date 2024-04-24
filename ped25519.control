@@ -1,0 +1,5 @@
+comment = 'pgrx-ed25519:  Created by pgrx'
+default_version = '@CARGO_VERSION@'
+module_pathname = '$libdir/ped25519'
+relocatable = false
+superuser = true
